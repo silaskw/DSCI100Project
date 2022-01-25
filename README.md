@@ -3,4 +3,4 @@ Program Language: R
 Project Contributors:
 Silas Kwok, Lucia Yun
 
-In order to view the project report & code, go to DSCI100Project/files/FINAL.ipynb.
+In order to view the project report & code, go to DSCI100Project/files/FINAL.ipynb (click files, then once inside, click FINAL.ipynb).
